@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1074865935580",
+    "firebase_url": "https://aplicaciones-moviles-9d14d.firebaseio.com",
+    "project_id": "aplicaciones-moviles-9d14d",
+    "storage_bucket": "aplicaciones-moviles-9d14d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074865935580:android:3fd0d92d836a95fb",
+        "android_client_info": {
+          "package_name": "esteticaapp.co.aplicacionesmoviles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074865935580-frk0h94rdmlp4f72rc8h7f3nlmildn6a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "esteticaapp.co.aplicacionesmoviles",
+            "certificate_hash": "d4cb0a37d06f9ca5bce2744c607ef9b307546cef"
+          }
+        },
+        {
+          "client_id": "1074865935580-kcui0hjpre20niocc7s3ct1kuormfh61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSViM3LLne_uaNmF8qriSYkuA4LByzL8c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074865935580-kcui0hjpre20niocc7s3ct1kuormfh61.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
